@@ -1,4 +1,3 @@
-# Spice-Delight
 # Spice Delight 🍽️
 
 A responsive Indian restaurant website built using HTML, CSS, and JavaScript.
