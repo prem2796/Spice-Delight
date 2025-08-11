@@ -4,13 +4,6 @@ Welcome to **Spice Delight** — an elegant, fully responsive restaurant website
 
 ---
 
-## ✨ Live Demo
-
-Check out the live site here:  
-[https://yourusername.github.io/spice-delight/](https://yourusername.github.io/spice-delight/)
-
----
-
 ## 🍽️ Project Highlights
 
 - **Sleek, modern UI** inspired by authentic Indian aesthetics  
